@@ -1,13 +1,16 @@
 {
-  "name": "analiz-plugin-generic",
+  "name": "analiz-plugin-html-validator",
   "version": "0.0.1",
-  "description": "Generic template for creating an Analiz module",
+  "description": "HTML validator module for Analiz",
   "main": "lib/index.js",
   "keywords": [
     "analiz",
-    "template",
-    "generic"
+    "html",
+    "validator"
   ],
   "author": "Quelu <quelumatagne@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "w3cvalidator": "^0.1.26"
+  }
 }
