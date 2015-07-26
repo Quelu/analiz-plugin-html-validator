@@ -1,6 +1,6 @@
 {
   "name": "analiz-plugin-generic",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Generic template for creating an Analiz module",
   "main": "lib/index.js",
   "keywords": [
