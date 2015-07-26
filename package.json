@@ -1,0 +1,13 @@
+{
+  "name": "analiz-plugin-generic",
+  "version": "1.0.0",
+  "description": "Generic template for creating an Analiz module",
+  "main": "lib/index.js",
+  "keywords": [
+    "analiz",
+    "template",
+    "generic"
+  ],
+  "author": "Quelu <quelumatagne@gmail.com>",
+  "license": "ISC"
+}
