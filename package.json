@@ -1,6 +1,6 @@
 {
   "name": "analiz-plugin-html-validator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "HTML validator module for Analiz",
   "main": "lib/index.js",
   "keywords": [
